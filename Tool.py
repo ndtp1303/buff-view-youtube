@@ -14,7 +14,7 @@ viewCount = 0
 if __name__ == "__main__":
 
     system("cls")
-    os.system("title Tiktok Buff | QueenTech")
+    os.system("title Youtube Buff | QueenTech")
 
     print(f"""{pyfiglet.figlet_format("Tool | QueenTech", font="slant")}""")
 
